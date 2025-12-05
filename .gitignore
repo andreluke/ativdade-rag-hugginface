@@ -1,0 +1,55 @@
+# -------------------------------
+# Ambientes virtuais
+# -------------------------------
+.venv/
+venv/
+env/
+ENV/
+
+# -------------------------------
+# Arquivos do Python
+# -------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+*.p
+*.egg-info/
+*.egg
+dist/
+build/
+
+# -------------------------------
+# Configurações / ambientes
+# -------------------------------
+.env
+.env.*
+!.env.example
+
+# -------------------------------
+# Index FAISS e metadados gerados
+# -------------------------------
+data/index/
+*.faiss
+*.npy
+*.npz
+metadata.json
+
+# -------------------------------
+# Arquivos temporários
+# -------------------------------
+.tmp/
+temp/
+tmp/
+.DS_Store
+Thumbs.db
+
+# -------------------------------
+# Cache de bibliotecas
+# -------------------------------
+.cache/
+huggingface/
+transformers_cache/
+datasets/

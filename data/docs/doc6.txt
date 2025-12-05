@@ -1,0 +1,1 @@
+Python é uma linguagem de programação de alto nível, conhecida por sua legibilidade e ampla comunidade. É muito utilizada em áreas como ciência de dados, automação, desenvolvimento web e aprendizado de máquina.
