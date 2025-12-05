@@ -22,4 +22,18 @@ python -m venv .venv
 source .venv/bin/activate   # ou .venv\Scripts\activate no Windows
 pip install -r requirements.txt
 cp .env.example .env
+```
 
+## Modo de uso
+
+Comece rodando a build para atualizar os docs
+
+```bash
+python -m src.scripts.build_index
+```
+
+E envie sua pergunta
+
+```bash
+python -m src.scripts.query_rag --q "O que diz o documento sobre gatos?"
+```
