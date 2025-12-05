@@ -30,7 +30,7 @@ Este repositório demonstra uma integração prática entre uma LLM (modelo de l
 - `utils/preprocessing.py` — pré-processamento de texto
 
 `data/`
-- `dsm_material.txt` — base de conhecimento de exemplo (substitua pelo seu corpus)
+- `data.txt` — base de conhecimento de exemplo (substitua pelo seu corpus)
 
 `requirements.txt` — dependências do projeto
 
