@@ -3,7 +3,7 @@ import os
 from rag.retriever import Retriever
 from llm.model import HuggingFaceLLM
 
-DATA_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'dsm_material.txt')
+DATA_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'data.txt')
 
 
 def main():
