@@ -1,1 +1,0 @@
-A inteligência artificial é uma área da computação que desenvolve algoritmos capazes de aprender padrões a partir de dados. Modelos modernos conseguem analisar textos, imagens e sons para realizar tarefas específicas, como classificação, tradução e geração de conteúdo.
