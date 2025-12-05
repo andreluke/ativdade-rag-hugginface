@@ -18,7 +18,7 @@ Este projeto demonstra um pipeline simples de RAG:
 ## Instalação
 
 ```bash
-git clone <repo>
+git clone https://github.com/andreluke/ativdade-rag-hugginface
 cd rag-hf-example
 python -m venv .venv
 source .venv/bin/activate   # ou .venv\Scripts\activate no Windows
